@@ -4,7 +4,7 @@ function signUp(email){
 //pegando o email e cadastrando na plataforma//
 
 function mostraMensagem(){
-    return ´Bem vindo ao sistem´;
+    return 'Bem vindo ao sistem';
 }
 
 // Adicionando funcao de mensagem//
